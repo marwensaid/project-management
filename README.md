@@ -65,10 +65,6 @@ Le but est d’aider les équipes à maîtriser leur QS, identifier les dérives
 
 ⏱️ Déroulé
 
-⌛ 15 min — Introduction du cas
-
-Tu expliques le besoin comme si tu étais un client interne. Tu insistes sur le fait que c’est leur outil, à eux de concevoir. Tu précises que tu observeras leur manière de s’organiser.
-
 👥 Travail de groupe
 
 Chaque groupe (6/7 étudiants) travaille sur sa propre version du projet :
