@@ -1,0 +1,47 @@
+✅ Consigne – Préparer un plan de test complet pour le projet “QS-Master”
+
+🎯 Objectif :
+
+Formaliser un plan de tests complet pour garantir la qualité du projet “QS-Master”, en couvrant l’ensemble des couches (backend, frontend, base de données, intégration, API, visualisation, etc.).
+
+⸻
+
+📌 Livrable attendu
+
+Un document structuré (ou slide deck) présentant de manière claire :
+	1.	Les types de tests prévus, avec objectifs, portée et outils associés
+	2.	Les cas de test représentatifs pour les fonctionnalités principales
+	3.	La stratégie d’automatisation
+	4.	L’intégration dans le pipeline CI/CD
+	5.	Les critères de réussite et politique de couverture
+
+⸻
+
+🧪 Types de tests à intégrer (au minimum)
+
+Type de test	Description attendue
+🔹 Tests unitaires	Par composant (back, front) avec objectifs, exemples (ex : calcul QS, pondération…)
+🔹 Tests d’intégration	Interaction entre modules : base de données, API REST, Prometheus, etc.
+🔹 Tests end-to-end (E2E)	Simulation d’un parcours utilisateur complet (création SLO, visualisation, export…)
+🔹 Tests d’interface (UI)	Fonctionnement de l’IHM, accessibilité, comportements dynamiques
+🔹 Tests de performance	Temps de réponse des appels API, visualisation, calculs massifs
+🔹 Tests de résilience	Comportement en cas de panne partielle, données incomplètes, services dégradés
+🔹 Tests de sécurité	Authentification, autorisations, exposition API, injection, etc.
+🔹 Tests de non-régression	Stratégie pour éviter les régressions après mise à jour
+
+
+
+⸻
+
+🔧 Informations à détailler
+	•	Outils prévus (JUnit, Postman, Selenium, Cypress, K6, etc.)
+	•	Politique de couverture (ex : 80% des fonctions critiques en test unitaire)
+	•	Fréquence et déclencheurs des tests automatisés
+	•	Mise en place dans la CI/CD (GitLab CI, GitHub Actions…)
+
+⸻
+
+📁 Format conseillé
+	•	Document Markdown, PDF ou diaporama
+	•	Tableau de synthèse ou carte mentale des types de tests
+	•	Diagramme d’intégration dans le cycle de vie DevOps
