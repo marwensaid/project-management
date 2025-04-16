@@ -1,0 +1,60 @@
+🔥 Simulation de crise projet – “QS-Master”
+
+🎯 Objectif :
+
+Simuler une situation de crise dans votre projet afin de :
+	•	Mettre en œuvre une réunion de crise efficace
+	•	Réagir rapidement en équipe
+	•	Prioriser, arbitrer, décider sous contrainte
+	•	Fournir malgré tout un livrable viable (MVP ou plan de rattrapage)
+
+⸻
+
+📍 Scénario de crise
+
+❗ Incident critique : À mi-parcours du projet, votre équipe fait face à un problème majeur :
+	•	Le composant de calcul de la Qualité de Service (pondération + agrégation des SLOs) ne fonctionne pas.
+	•	Le développeur en charge a quitté temporairement le projet (maladie, absence).
+	•	La deadline du livrable reste inchangée, et le client attend une démo fonctionnelle.
+	•	Le backlog comporte des fonctionnalités secondaires non encore développées.
+	•	Le moral de l’équipe est en baisse, les rôles sont flous.
+
+🕒 Vous avez 30 à 45 minutes pour organiser une réunion de crise et proposer un plan d’action clair.
+
+⸻
+
+✅ Attendus de la simulation
+
+📍 1. Réunion de crise
+
+Organisez une vraie réunion d’équipe avec rôles définis :
+	•	Animateur (Scrum Master / PM)
+	•	Prise de notes
+	•	Porte-parole pour la restitution
+
+Répondez collectivement à ces questions :
+	•	Quelles sont les causes racines du problème ?
+	•	Quelles sont les conséquences sur les livrables ?
+	•	Que peut-on sacrifier, simplifier ou réorganiser ?
+	•	Comment assurer un MVP acceptable malgré la crise ?
+	•	Quels rôles sont redéfinis / actions immédiates ?
+	•	Qui communique au “client” (enseignant) ? Que dit-on ?
+
+📍 2. Livrable à remettre
+
+À la fin de la simulation (ou 1h max après), chaque groupe remet :
+	•	Un compte-rendu de la réunion de crise
+	•	Une nouvelle roadmap ajustée
+	•	Un plan de reprise ou de contournement
+	•	Un MVP ajusté ou focus démontrable
+
+⸻
+
+🎙️ Pitch post-crise
+
+	•	Ce qu’il s’est passé
+	•	Comment ils ont réagi
+	•	Leur plan de sortie de crise
+	•	Ce qu’ils vont livrer
+
+⸻
