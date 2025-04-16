@@ -19,7 +19,7 @@ Simuler une situation de crise dans votre projet afin de :
 	•	Le backlog comporte des fonctionnalités secondaires non encore développées.
 	•	Le moral de l’équipe est en baisse, les rôles sont flous.
 
-🕒 Vous avez 30 à 45 minutes pour organiser une réunion de crise et proposer un plan d’action clair.
+🕒 Vous avez 45 à 60 minutes pour organiser une réunion de crise et proposer un plan d’action clair.
 
 ⸻
 
